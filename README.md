@@ -7,4 +7,5 @@
 
 <audio autoplay="autoplay" loop="loop" controls="controls">
  <source src="ArmyTest.github.io/01 Intro _ Dt sugA.mp3" type="audio/mpeg" />
+ <source src="ArmyTest.github.io/01 Intro _ Dt sugA.ogg" type="audio/ogg" />
 </audio>
