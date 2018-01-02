@@ -1,4 +1,4 @@
-
+theme: jekyll-theme-merlot
 아미 테스트
 
 아미 테스트
